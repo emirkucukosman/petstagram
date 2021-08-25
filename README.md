@@ -22,3 +22,4 @@ Technologies used in this project:
 `npm install`
 4. Start the application <br>
 `npm start`
+# See the live deployed app [here](https://trusting-fermi-4e4f1e.netlify.app) 🚀
