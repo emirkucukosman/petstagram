@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  height: 100%;
+}
+
+.logo {
+  font-family: "Style Script", cursive;
+}
+
+.user-post-image:hover img {
+  filter: brightness(0.5);
+}
+
+.user-post-image:hover .overlay {
+  opacity: 1;
+}
